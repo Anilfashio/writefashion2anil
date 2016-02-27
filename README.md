@@ -1,2 +1,4 @@
 # writefashion2anil
-a repository
+
+HI ALL
+WELCOME
